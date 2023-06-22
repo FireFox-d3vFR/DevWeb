@@ -50,8 +50,3 @@ body {
 th {
     color: blue;
 }
-
-/* Personnalisation de la map ~ Leafletjs */
-#map {
-    height: 180px;
-}
