@@ -8,3 +8,5 @@ Ce que j`ai fait :<br>
   Nom de la rue, etc...). Ces informations sont récupérée à l`aide de l`API.
   - L`API communique aussi dans la console avec l`aide JSON (j`affiche les informations par un<br>
   tableau (fetch).
+
+📹 L'idée est venue d'une vidéo Tiktok : https://vm.tiktok.com/ZGJCmnuMA/
